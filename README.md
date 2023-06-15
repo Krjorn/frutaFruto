@@ -6,10 +6,10 @@ Projeto desenvolvido como parte do curso Arquitetura CSS da Alura.
 | ------------- | --- |
 | :sparkles: Nome | **Fruta & Fruto**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL | https://url-deploy.com.br
+| :rocket: URL | https://krjorn.github.io/frutaFruto/
 | :fire: Desafio | https://cursos.alura.com.br/course/arquitetura-css
 
-![](./assets/img/project.jpg#vitrinedev)
+![Imagem do projeto](./assets/img/project.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
