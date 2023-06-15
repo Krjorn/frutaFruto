@@ -1,0 +1,17 @@
+@import url(./components/cabecalho.css);
+@import url(./components/banner.css);
+@import url(./components/sobre.css);
+@import url(./components/receitas.css);
+@import url(./components/quemSomos.css);
+@import url(./components/rodape.css);
+
+:root {
+    --background-color: #eeeeee;
+    --branco: #ffffff;
+    --border-color: #c4c4c4;
+    --primary-color: #8d0606;
+    --secondary-color: #8c8888;
+    --tertiary-color: #333333;
+    --quaternary-color: #620404;
+    --primary-font: 'Pacifico', cursive;
+}

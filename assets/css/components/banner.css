@@ -1,0 +1,40 @@
+.banner {
+    background: url(../../img/banner.jpg) no-repeat center / cover;
+}
+
+.banner__titulo {
+    color: var(--branco);
+    font-family: var(--primary-font);
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75);
+}
+
+@media screen and (max-width: 540px) {
+    .banner {
+        padding: 15vh 2rem;
+    }
+
+    .banner__titulo {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (min-width: 541px) {
+    .banner {
+        padding: 23vh 2rem;
+    }
+
+    .banner__titulo {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .banner {
+        padding: 23vh 5rem;
+    }
+
+    .banner__titulo {
+        font-size: 5rem;
+    }
+}
